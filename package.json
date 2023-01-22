@@ -10,6 +10,11 @@
 		"linting",
 		"formatting"
 	],
+	"homepage": "https://github.com/Hetch3t/eslint-plugin-sort-keys",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Hetch3t/eslint-plugin-sort-keys"
+	},
 	"license": "MIT",
 	"author": {
 		"name": "Hetchet",
