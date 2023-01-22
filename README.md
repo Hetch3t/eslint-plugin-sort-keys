@@ -23,16 +23,14 @@ Standard ESLint `sort-keys` rule doesn't allow sorting fields and there is no pl
 
 3. Add to your ESLint config:
 
-```json
+```jsonc
 {
-	...
-	"plugins": [..., "@hetchet/sort-keys", ...]
-	...
+	// ...
+	"plugins": ["@hetchet/sort-keys"],
 	"rules": {
-		...
 		"@hetchet/sort-keys/sort-keys": "error"
-		...
 	}
+	// ...
 }
 ```
 
