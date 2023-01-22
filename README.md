@@ -1,10 +1,11 @@
-[![npm][npm-image]][serenity-url]
-[![downloads][downloads-image]][serenity-url]
+[![npm][npm-image]][package-url]
+[![downloads][downloads-image]][package-url]
 [![serenity][serenity-image]][serenity-url]
 
 [npm-image]: https://img.shields.io/npm/v/@hetchet/eslint-plugin-sort-keys.svg?style=flat
 [downloads-image]: https://img.shields.io/npm/dm/@hetchet/eslint-plugin-sort-keys.svg?style=flat
 [serenity-image]: https://img.shields.io/badge/code%20style-%F0%9F%AA%B7%20serenity-4AD3BA?style=flat
+[package-url]: https://npmjs.org/package/@hetchet/eslint-plugin-sort-keys
 [serenity-url]: https://npmjs.org/package/@hetchet/eslint-config-serenity
 
 ## Description
