@@ -10,7 +10,7 @@
 
 ## Description
 
-Standard ESLint `sort-keys` rule doesn't allow sorting fields and there is no plan to implement it. However, personally I would find a lot of usages for such functionality, so I added fixing logic to default ESLint rule.
+Standard ESLint `sort-keys` rule doesn't allow autofix'ing fields order based on `sort-keys` rule and there is no plan to implement it. However, personally I would find a lot of usages for such functionality, so I added fixing logic to default ESLint rule.
 
 ## Installation
 
